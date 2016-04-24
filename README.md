@@ -5,3 +5,4 @@
 - himajin315
 - Fix-B
 - feature-C
+Ryusuke-Suzuki
