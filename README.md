@@ -1,10 +1,10 @@
-# Git Tutorial
+# GIT TUTORIAL
 
-- feature-A
-- 3taka3taka
-- himajin315
-- Fix-B
-- feature-C
-Takamiyagi
-Ryusuke-Suzuki
-Hello-github-aaaaaa
+- FEATURE-A
+- 3TAKA3TAKA
+- HIAMJIN315
+- FIX-B
+- FEATURE-C
+TAKAMIYAGI
+RYUSUKE-SUZUKI
+HELLO-GITHUB-AAAAAA
