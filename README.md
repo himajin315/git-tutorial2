@@ -5,4 +5,5 @@
 - himajin315
 - Fix-B
 - feature-C
+Takamiyagi
 Ryusuke-Suzuki
