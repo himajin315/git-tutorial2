@@ -23,8 +23,5 @@ RYUSUKE-SUZUKI
 -     printf("Hello, world!\n");
 -     return 0;
 - }
-<<<<<<< HEAD
-=======
 
-HENKOU
->>>>>>> Ryusuke-PR
+HENKOU2
