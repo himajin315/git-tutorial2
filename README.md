@@ -1,8 +1,7 @@
-# Git Tutorial
+# GIT TUTORIAL
 
-- feature-A
-- 3taka3taka
-- himajin315
-- Fix-B
-- feature-C
-Ryusuke-Suzuki
+- 3TAKA3TAKA
+- HIAMJIN315
+- FIX-B
+- FEATURE-C
+RYUSUKE-SUZUKI
